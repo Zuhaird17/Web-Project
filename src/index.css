@@ -1,0 +1,43 @@
+.menu_bg.ami{
+  padding: 50px 50px;
+}
+#banner{
+  width: 1800px;
+ padding: 400px;
+  background-image: url("../src/assets/banner.png");
+  margin-bottom: 100px;
+}
+#brands{
+  margin-top: 100px;
+padding: 100px ;
+  background-image: url("../src/assets/brands.png");
+}
+#model{
+padding: 490px;
+margin-top: 60px;
+background-image: url("../src/assets/models.png");
+}
+#payday{
+  padding: 480px;
+  margin-top: 100px;
+  background-image: url("../src/assets/payday.png");
+}
+#young{
+   padding: 428px;
+   margin-top: 100px;
+   background-image: url("../src/assets/young.png");
+}
+#download{
+  padding: 428px;
+   margin-top: 100px;
+   background-image: url("../src/assets/download.png");
+}
+#community{
+  padding: 300px;
+   margin-top: 100px;
+   background-image: url("../src/assets/community.png");
+}
+#copyright{
+  padding: 300px;
+  background-image: url("../src/assets/copyright.png");
+}
